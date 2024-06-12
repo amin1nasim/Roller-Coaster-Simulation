@@ -75,4 +75,4 @@ These features ensure a comprehensive and interactive experience for users explo
 
 ---
 
-This assignment highlights the integration of mathematical principles and practical implementation in computer animation, showcasing the creation of a smooth, realistic roller coaster simulation.
+This project highlights the integration of mathematical principles and practical implementation in computer animation, showcasing the creation of a smooth, realistic roller coaster simulation.
